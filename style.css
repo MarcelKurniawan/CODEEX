@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+}
+
+#navid{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+body{
+    background-image: linear-gradient(#212529, #212529);
+}
+
+.landing-mid{
+    padding-top: 225px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: white;
+}
+
+.mid{
+    align-content: space-between;
+}
+
+.right-side{
+    float: right;
+    padding-right: 550px;
+    height: 50px;
+    width: 70px;
+}
+
+.left-side{
+    float: left;
+}
+
+.left-side h1{
+    font-size: 70px;
+    font-family: 'Consolas';
+}
+
+.left-side p{
+    font-size: 15px;
+    font-family: 'Consolas';
+}
+
+#cap1{
+    color: white;
+}
+
+#cap1 span{
+    color: #0FC000;
+}
+
+.box-content{
+    padding-top: 500px;
+    margin-bottom: 325px;
+}
+
+.title-cap h1{
+    text-align: center;
+}
+
+.card-mid {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 60px;
+}
+
+.card{
+    text-align: justify;
+    width: 550px;
+    padding: 50px;
+    margin: 60px;
+}
+
+#card1{
+    width: 80px;
+    height: 100px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+#card2{
+    width: 80px;
+    height: 100px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+#social{
+    color: white;
+}
+
+.footer-social{
+    text-align: center;
+    padding-bottom: 25px;
+    color: #1E7092;
+}
+
+.footer-social a{
+    font-size: 25px;
+    color: black;
+    background: white;
+    border: 1px solid White;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    margin: 0 8px;
+}
+
+.footer-social a:hover{
+    transform: scale(1.3);
+    transition: .4s;
+}
+
+.text-light{
+    text-decoration: none;
+}
